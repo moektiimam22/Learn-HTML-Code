@@ -1,0 +1,25 @@
+<!-- Family Tree -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <titel>family Tree</titel>
+  </head>
+  <body>
+    <h1>Bani Wahid</h1>
+    <h2>Tebuireng - Jombang<h/2>
+    <ul>
+      <li><h3>Wahid Hasyim</h3></li>
+      <li><h3>Sholihah</h3></li>
+      <ul>
+        <li><h3>Gus Dur</h3></li>
+        <li><h3>Gus Sholah</h3></li>
+        <li><h3>Aisyah</h3></li>
+        <li><h3>Umar</h3></li>
+        <li><h3>Lily</h3></li>
+        <li><h3>Hasyim Wahid</h3></li>
+      </Ul>
+    </ul>
+  </body>
+</html>
+
